@@ -4,3 +4,6 @@
 [submodule "vendor/powerline"]
 	path = vendor/powerline
 	url = git@github.com:milkypostman/powerline.git
+[submodule "vendor/railscasts-theme"]
+	path = vendor/railscasts-theme
+	url = git@github.com:itiut/railscasts-theme.git
