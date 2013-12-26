@@ -1,0 +1,3 @@
+[submodule "vendor/scamacs"]
+	path = vendor/scamacs
+	url = git@github.com:bronislav/scamacs.git
