@@ -1,3 +1,6 @@
 [submodule "vendor/scamacs"]
 	path = vendor/scamacs
 	url = git@github.com:bronislav/scamacs.git
+[submodule "vendor/powerline"]
+	path = vendor/powerline
+	url = git@github.com:milkypostman/powerline.git
