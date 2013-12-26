@@ -5,7 +5,7 @@
 ;;; Code:
 
 (add-to-list 'custom-theme-load-path "~/.emacs.d/vendor/railscasts-theme")
-(add-to-list 'load-path "~/.emacs.d/vendor/powerline")
+(prelude-require-packages '(powerline))
 
 (set-face-attribute 'default nil
                     :family "Monaco" :height 140)
