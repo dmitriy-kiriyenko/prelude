@@ -4,6 +4,8 @@
 
 ;;; Code:
 
+(prelude-require-packages '(slime))
+
 (setq slime-default-lisp 'sbcl)
 ;; (prelude-load-common-lisp-slime)
 
