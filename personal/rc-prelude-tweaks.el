@@ -7,4 +7,4 @@
 (setq prelude-flyspell nil)
 (setq prelude-guru nil)
 
-;;; rc-prelude-tweaks.el end here
+;;; rc-prelude-tweaks.el ends here
