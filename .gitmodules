@@ -1,6 +1,3 @@
 [submodule "vendor/scamacs"]
 	path = vendor/scamacs
 	url = git@github.com:bronislav/scamacs.git
-[submodule "vendor/railscasts-theme"]
-	path = vendor/railscasts-theme
-	url = git@github.com:itiut/railscasts-theme.git
